@@ -326,3 +326,4 @@ createScrollProgress();
 
 console.log('Portfolio website loaded successfully! 🚀');
 console.log('hello from git! 🚀');
+console.log('this is for feature #1')

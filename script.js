@@ -326,8 +326,5 @@ createScrollProgress();
 
 console.log('Portfolio website loaded successfully! 🚀');
 console.log('hello from git! 🚀');
-<<<<<<< HEAD
 console.log('this is for feature #1 - feature branch changes')
-=======
 console.log('this is for feature #1 changes done to check merge conflict')
->>>>>>> main

@@ -325,3 +325,4 @@ function createScrollProgress() {
 createScrollProgress();
 
 console.log('Portfolio website loaded successfully! 🚀');
+console.log('hello from git! 🚀');
